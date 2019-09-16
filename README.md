@@ -1,2 +1,2 @@
 # Course-Experience
-Laboratory Exercises in Python Programming Course
+Completed laboratory exercises for Python Programming Course that contributed to Master of Science in Geographic Information Science
