@@ -18,4 +18,4 @@ def dist(x1,y1,x2,y2):
     
 #Inputing coordinate values into the function to test accuracy
 print dist(1,2,4,6)
-#print "The result is:", result
+
