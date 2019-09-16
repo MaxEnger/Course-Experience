@@ -16,6 +16,6 @@ def dist(x1,y1,x2,y2):
     result = math.sqrt(dsq)
     return 'The result is:', result
     
-#Inputing values into the function to test accuracy
+#Inputing coordinate values into the function to test accuracy
 print dist(1,2,4,6)
 #print "The result is:", result
